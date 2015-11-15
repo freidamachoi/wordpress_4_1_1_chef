@@ -23,8 +23,8 @@ if (($_SERVER['HTTP_CLOUDFRONT_FORWARDED_PROTO'] == 'https') OR ($_SERVER['HTTP_
 
 define('WP_REDIS_HOST', 'wp-redis-knight.fca8vv.0001.use1.cache.amazonaws.com');
 
-define('WP_HOME', 'https://dev.kikstand.org');
-define('WP_SITEURL', 'https://dev.kikstand.org');
+define('WP_HOME', 'https://dev.knight-enterprises.com');
+define('WP_SITEURL', 'https://dev.knight-enterprises.com');
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
